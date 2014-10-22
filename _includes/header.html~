@@ -1,23 +1,19 @@
 <!-- Navigation -->
 <nav class="navbar navbar-default navbar-fixed-top">
    
-   <div class="container row">
+   <div class="container" id="top_panel">
             
     	<!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header page-scroll" id="bar-narrow col-md-4">
-         	
-      	<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-				<span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-         </button>
-         <a class="navbar-brand page-scroll col-md-4" href="#page-top" id="header_col"><img src="./img/harvest_logo.png" class="harvest_icon"alt="HarvestAPI"></a>
+      <div class="navbar-header page-scroll">
+
+         <a class="navbar-brand page-scroll" href="#page-top">
+         	<img src="./img/harvest_logo.png" class="harvest_icon"alt="HarvestAPI">
+         </a>
    	</div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-         	<ul class="nav navbar-nav navbar-right">
+         	<ul class="nav navbar-nav navbar-right" id="main-bar">
             	<li class="hidden">
                	<a href="#page-top"></a>
              	</li>
@@ -43,7 +39,7 @@
                </li>
                    
                                         
-					<li id="fork_stretch" class="col-md-4"> 
+					<li id="fork_stretch"> 
 						<a href="https://github.com/codeforthecaribbean/harvestapi"><img id ="github_link" src="./img/platform/forkme_right_red_aa0000.png"></a>
 					</li>                
           	</ul>    
@@ -58,7 +54,7 @@
 	<div class="container">
 		
 		<div class="intro-text">
-      	<div class="intro-lead-in">Welcome To HarvestAPI!</div>
+
       	<div class="intro-heading">Harvest API is an open-data platform for sharing of agriculture sector information. </div>
                 
      	</div>
