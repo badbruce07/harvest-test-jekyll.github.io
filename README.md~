@@ -24,7 +24,7 @@ Or a public sector official needing information to plan policies…
 
 We all need information. HarvestAPI was built to remove the friction preventing you from getting the agriculture data you need.
 	
-"Why" projects are in '/_posts'
+The link to the file is in <b> '/_includes/services.html' </b>
 
 Images are in '/img/money-grow.png'
 
@@ -33,6 +33,8 @@ Images are in '/img/money-grow.png'
 What does it give you?
 <br/>
 HarvestAPI gives you on-demand access to the information that powers the agriculture industry.
+
+The link to the file is in <b> '/_includes/portfolio_grid.html' </b>
 
 Images are found in '/img/services/'
 
@@ -51,6 +53,8 @@ Want to learn how startups are already using the information in HarvestAPI? The 
 - Project Agro
 - Clever Grocer
 
+The link to the file is in <b> '/_includes/about.html' </b>
+<br/>
 Images are found in '/img/platform/'
 
 ###Contribute
@@ -63,6 +67,8 @@ HarvestAPI is an open source project. We’re still in beta and always looking f
 - Get in touch!
 
 Want more information or help bringing HarvestAPI to your agriculture agency?
+<br/>
+The link to the file is in <b> '/_includes/team.html' </b>
 <br/>
 Images are found in '/img/platform/'
 
@@ -85,4 +91,10 @@ Built and designed with love by:
 - David Soutar
 - Afifa Harris
 <br/>
+The link to the file is in <b> '/_includes/team.html' </b>
+<br/>
 Images are found in '/img/platform/'
+
+<br/>
+<br/>
+Copyright © Slashroots Foundation 2014
