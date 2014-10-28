@@ -281,11 +281,10 @@ fieldset[disabled] .btn-xl.active {
 		width:160px;
 		height: 60px;
 		margin-left: -30px;
-		margin-top: 0.5px;
 	}
 	
 	.navbar-shrink #top_panel{
-		margin-left: 45px;
+		margin-left: 100px;
 	}
 	
 	.navbar-default.navbar-shrink .navbar-brand {
@@ -372,7 +371,7 @@ section h2.u160-2
 section h2.section-heading {
     margin-top: 0;
     margin-bottom: 15px;
-    font-size: 40px;
+    font-size: 40px;nan
 }
 
 h2#u131-2{
@@ -936,6 +935,7 @@ a#header_col{
 
 img.harvest_icon{
 	margin-top: -40px;
+	margin-left: 40px;
 }
 
 p.text-muted{
@@ -999,7 +999,7 @@ li#names-main1{
 }
 
 #top_panel{
-	margin-left: 120px;
+	margin-left:10px;
 }
 
 li#names-main2{
@@ -1077,7 +1077,7 @@ ul.list-user1 li:before
 	margin-top: -15px;
 }
 
-p#align_perform{
+#align_perform{
 	text-align: left;
 	font-size: 24px;
 	line-height: 29px;

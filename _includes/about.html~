@@ -3,9 +3,8 @@
 	
 	<div class="container">
             
-		<div class="row">
+		<div class="row text-center">
       
-      	<div class="row text-center">
          
          	<div class="col-md-4">
                    
@@ -29,25 +28,8 @@
                
          	</div>
                 
-          	<div class="col-md-6" id="panel_platform">
-            
-            	<p id="plat_heading"> Platform Launch Partners </p>
-               <h3 id="align_perform">
-               	Want to learn how startups are already using the information in HarvestAPI? 
-                	Check out our two launch partners 
-               </h3>
-               
-               <br/><br/>
-					
-					<div class="col-md-6">
-						<img src="./img/platform/project_agro.png" alt="">
-					</div>                	
-                	
-               <div class="col-md-6">
-						<img src="./img/platform/clever_grocer.png" alt="">
-					</div>
-          	</div>
-        	</div>
+          	
+
      	</div>
 	</div>
 </section>
