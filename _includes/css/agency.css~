@@ -216,7 +216,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.color.primary }};
 }
-
+#main-bar{
+	margin-left: 50px;
+}
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -935,7 +937,7 @@ a#header_col{
 
 img.harvest_icon{
 	margin-top: -40px;
-	margin-left: 40px;
+	margin-left: 50px;
 }
 
 p.text-muted{

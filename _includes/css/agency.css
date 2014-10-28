@@ -284,7 +284,7 @@ fieldset[disabled] .btn-xl.active {
 	}
 	
 	.navbar-shrink #top_panel{
-		margin-left: 100px;
+		margin-left: 45px;
 	}
 	
 	.navbar-default.navbar-shrink .navbar-brand {
@@ -935,7 +935,6 @@ a#header_col{
 
 img.harvest_icon{
 	margin-top: -40px;
-	margin-left: 50px;
 }
 
 p.text-muted{
@@ -999,7 +998,7 @@ li#names-main1{
 }
 
 #top_panel{
-	margin-left:10px;
+	margin-left: 120px;
 }
 
 li#names-main2{
