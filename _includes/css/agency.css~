@@ -216,9 +216,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-toggle:focus {
     background-color: #{{ site.color.primary }};
 }
-#main-bar{
-	margin-left: 50px;
-}
+
 .navbar-default .nav li a {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -272,8 +270,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #FFD700;
-        width: 1200px;
+        background-color: #FFD700;	
         height: 10px;
         margin-left: auto;
         margin-right: auto;
@@ -286,7 +283,7 @@ fieldset[disabled] .btn-xl.active {
 	}
 	
 	.navbar-shrink #top_panel{
-		margin-left: 100px;
+		margin-left: 45px;
 	}
 	
 	.navbar-default.navbar-shrink .navbar-brand {
@@ -401,6 +398,31 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
+
+@media(min-width:1024px){
+
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;	
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+@media(min-width:1080px){
+
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;	
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
 
 @media(min-width:768px) {
     section {
@@ -667,6 +689,16 @@ section h3.section-subheading {
 }
 
 @media(min-width:1200px) {
+	
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;
+        width: 1200px;
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
     .timeline>li {
         min-height: 170px;
     }
@@ -937,7 +969,6 @@ a#header_col{
 
 img.harvest_icon{
 	margin-top: -40px;
-	margin-left: 50px;
 }
 
 p.text-muted{
@@ -1001,7 +1032,7 @@ li#names-main1{
 }
 
 #top_panel{
-	margin-left:10px;
+	margin-left: 120px;
 }
 
 li#names-main2{

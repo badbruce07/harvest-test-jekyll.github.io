@@ -270,8 +270,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #FFD700;
-        width: 1200px;
+        background-color: #FFD700;	
         height: 10px;
         margin-left: auto;
         margin-right: auto;
@@ -336,10 +335,16 @@ header .intro-text .intro-heading {
 }*/
 
 @media(min-width:768px) {
-    header .intro-text {
-        padding-top: 700px;
-        padding-bottom: 100px;
-    }
+	
+	
+	section {
+        padding: 150px 0;
+   }
+    
+  	header .intro-text {
+   	padding-top: 700px;
+      padding-bottom: 100px;
+   }
 
 
     header .intro-text .intro-heading {
@@ -399,6 +404,31 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
+
+@media(min-width:1024px){
+
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;	
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
+@media(min-width:1080px){
+
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;	
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
 
 @media(min-width:768px) {
     section {
@@ -665,6 +695,16 @@ section h3.section-subheading {
 }
 
 @media(min-width:1200px) {
+	
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;
+        width: 1200px;
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
     .timeline>li {
         min-height: 170px;
     }
