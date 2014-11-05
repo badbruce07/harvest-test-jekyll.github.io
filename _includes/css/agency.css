@@ -439,6 +439,10 @@ section h3.section-subheading {
 
 @media(min-width:720px){
 	
+	#top_panel{
+		margin-left: auto;
+		margin-right: auto;
+	}
 
 }
 
@@ -638,7 +642,13 @@ section h3.section-subheading {
 }
 
 @media(min-width:768px) {
-    .timeline:before {
+	
+	#top_panel{
+	margin-left: auto;
+	margin-right: auto;
+	}
+   
+   .timeline:before {
         left: 50%;
     }
 
@@ -1044,7 +1054,8 @@ li#names-main1{
 }
 
 #top_panel{
-	margin-left: 120px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 li#names-main2{

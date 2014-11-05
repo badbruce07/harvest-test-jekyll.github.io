@@ -421,7 +421,8 @@ section h3.section-subheading {
 
 	.navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #FFD700;	
+        background-color: #FFD700;
+        width: 1080px;	
         height: 10px;
         margin-left: auto;
         margin-right: auto;
@@ -434,6 +435,11 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+}
+
+@media(min-width:720px){
+	
+
 }
 
 .service-heading {
@@ -632,7 +638,13 @@ section h3.section-subheading {
 }
 
 @media(min-width:768px) {
-    .timeline:before {
+	
+	#top_panel{
+	margin-left: auto;
+	margin-right: auto;
+	}
+   
+   .timeline:before {
         left: 50%;
     }
 
@@ -1038,7 +1050,8 @@ li#names-main1{
 }
 
 #top_panel{
-	margin-left: 120px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 li#names-main2{
