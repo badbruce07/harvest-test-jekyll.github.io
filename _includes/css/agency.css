@@ -421,7 +421,8 @@ section h3.section-subheading {
 
 	.navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #FFD700;	
+        background-color: #FFD700;
+        width: 1080px;	
         height: 10px;
         margin-left: auto;
         margin-right: auto;
@@ -434,6 +435,11 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+}
+
+@media(min-width:720px){
+	
+
 }
 
 .service-heading {

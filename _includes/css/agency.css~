@@ -335,10 +335,16 @@ header .intro-text .intro-heading {
 }*/
 
 @media(min-width:768px) {
-    header .intro-text {
-        padding-top: 700px;
-        padding-bottom: 100px;
-    }
+	
+	
+	section {
+        padding: 150px 0;
+   }
+    
+  	header .intro-text {
+   	padding-top: 700px;
+      padding-bottom: 100px;
+   }
 
 
     header .intro-text .intro-heading {
