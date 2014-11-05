@@ -728,6 +728,23 @@ section h3.section-subheading {
 
 @media(min-width:1200px) {
 	
+	header {
+    text-align: center;
+    color: #000;
+    background-attachment: scroll;
+    background-image: url(../img/vector_bg.png);
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height: 1370px;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+	
 	.navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #FFD700;
