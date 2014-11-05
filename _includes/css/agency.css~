@@ -302,6 +302,7 @@ fieldset[disabled] .btn-xl.active {
 	}
 }
 
+/*
 header {
     text-align: center;
     color: #000;
@@ -318,7 +319,7 @@ header {
     margin-left: auto;
     margin-right: auto;
 }
-/*
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -387,7 +388,7 @@ h2#u131-2{
 	color:#545454;
 }
 
-h4#u140-4{
+#u140-4{
 	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
 	line-height: 29px;
 	font-size: 24px;
@@ -438,6 +439,12 @@ section h3.section-subheading {
 }
 
 @media(min-width:720px){
+	
+	.navbar-shrink img.harvest_icon{
+		width:160px;
+		height: 60px;
+		margin-left: -30px;
+	}
 	
 	#move-content{
 		margin-left:auto;
@@ -731,6 +738,12 @@ section h3.section-subheading {
 }
 
 @media(min-width:1200px) {
+	
+	.navbar-shrink img.harvest_icon{
+		width:160px;
+		height: 60px;
+		margin-left: -30px;
+	}
 	
 	header {
    	text-align: center;
