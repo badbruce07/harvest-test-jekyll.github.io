@@ -439,6 +439,10 @@ section h3.section-subheading {
 
 @media(min-width:720px){
 	
+	#move-content{
+		margin-left:auto;
+		margin-right:auto; 
+ 	}
 	#top_panel{
 		margin-left: auto;
 		margin-right: auto;
@@ -745,6 +749,9 @@ section h3.section-subheading {
     	margin-right: auto;
 	}
 	
+	#move-content{
+		margin-left:50px; 
+ 	}
 	.navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #FFD700;
@@ -1219,9 +1226,7 @@ section.bg-white{
 	height: 150px;
  }
  
- #move-content{
-	margin-left:50px; 
- }
+ 
  
  .text1{
 	font-size: 24px;
