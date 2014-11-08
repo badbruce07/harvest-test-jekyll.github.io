@@ -281,18 +281,7 @@ section h3.section-subheading {
 
 
 
-@media(min-width:1080px){
 
-	.navbar-default.navbar-shrink {
-        padding: 10px 0;
-        background-color: #FFD700;
-        width: 1080px;	
-        height: 10px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-}
 
 .service-heading {
     margin: 15px 0;
@@ -870,6 +859,19 @@ section h3.section-subheading {
 		margin-left: auto;
     	margin-right: auto;	
 	}
+
+}
+
+@media(min-width:1080px){
+
+	.navbar-default.navbar-shrink {
+        padding: 10px 0;
+        background-color: #FFD700;
+        width: 1080px;	
+        height: 10px;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
 }
 
