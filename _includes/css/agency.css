@@ -675,6 +675,11 @@ section h3.section-subheading {
 
 @media(min-width:720px){
 	
+	#top_panel{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
 	.bg-light-gray {
     	background-color: #6ACD7C;
     	width: 720px;
@@ -882,14 +887,6 @@ section h3.section-subheading {
    	height: 50px;
    	margin-left: -50px;
 	}
-    
-	#github_link{
-		position: relative;
-		height: 100px;
-		width: 100px;
-		margin-left:640px;
-		margin-top: -10px;
-	} 
 	
 	img.spons{
 		width: 768px;
@@ -1011,19 +1008,6 @@ section h3.section-subheading {
         color: #fff;
         background-color: rgba(0, 0, 0, 0.1); 
     }
-    
-    
-    .btn-xl {
-    padding: 20px 10px;
-    border-color: #{{ site.color.primary }};
-    border-radius: 3px;
-    text-transform: uppercase;
-    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 24px;
-    font-weight: 600;
-    color: #fff;
-    background-color: #{{ site.color.primary }};
-	}
 	
 	.bg-light-gray {
     	background-color: #6ACD7C;
