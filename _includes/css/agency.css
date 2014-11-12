@@ -331,11 +331,56 @@ section h3.section-subheading {
     	margin-right: auto;
 	}
 	
+	#move-button{
+		margin-top: 100px;	
+	
+	}
+	#info_farm{
+		margin-top: 200px;
+	}
+	
+	#header_col{
+		color: white;
+	}
+
+	.bg-blue{
+		background-color: #3FADA4;
+		width: 640px;
+		margin-left: auto;
+   	margin-right: auto;
+	}
+	
+	.bg-light-gray {
+    	background-color: #6ACD7C;
+    	width: 640px;
+   	margin-left: auto;
+    	margin-right: auto;
+	}
+	
+	section.bg-white{
+		background-color: #FFFFFF;
+		width: 640px;
+   	margin-left: auto;
+    	margin-right: auto;
+	}
+	
 	img.spons{
 		width: 640px;
 		margin-left: auto;
     	margin-right: auto;	
 	}
+	
+	header .intro-text .intro-heading {
+        margin-bottom: 0;
+        margin-top: 400px;
+        text-transform: uppercase;
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 50px;
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.1); 
+    }	
 
 }
 
