@@ -323,7 +323,7 @@ section h3.section-subheading {
    
 	
 	header .intro-text .intro-heading {
-        margin-top: 270px;
+        margin-top: 260px;
         margin-left: auto;
         margin-right: auto;
         text-transform: uppercase;

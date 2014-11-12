@@ -425,6 +425,31 @@ section h3.section-subheading {
 
 @media(min-width:540px){
 	
+	.navbar-default.navbar-shrink {
+   	padding: 5px 0;
+      background-color: #FFD700;	
+      height: 10px;
+      margin-left: auto;
+      margin-right: auto;
+	}
+	
+	.navbar-default.navbar-shrink .navbar-brand img.harvest_icon{
+		width:100px;
+		height: 60px;
+		margin-left: -15px;
+		margin-top: -33px;
+	}
+    
+	.navbar-shrink .nav ul a {
+   	text-transform: uppercase;
+   	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   	font-weight: 400;
+   	letter-spacing: 1px;
+   	color: #fff;
+   	margin-top: -20px;
+   	height: 50px;
+   	margin-left: -50px;
+	}
 	.harvest_icon{
 		height: 60px;
 		width: 120px;
