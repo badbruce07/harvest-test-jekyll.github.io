@@ -314,6 +314,22 @@ section h3.section-subheading {
     color: #fff;
     background-color: #{{ site.color.primary }};
 	}
+	
+	header {
+   	text-align: center;
+    	color: #000;
+    	background-attachment: scroll;
+    	background-image: url(../img/vector_bg.png);
+    	background-position: center center;
+    	background-repeat: none;
+    	width: 640px;
+    	-webkit-background-size: cover;
+    	-moz-background-size: cover;
+    	background-size: cover;
+    	-o-background-size: cover;
+    	margin-left: auto;
+    	margin-right: auto;
+	}
 
 }
 
