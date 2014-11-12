@@ -288,7 +288,7 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-@media screen and (min-width:640px){
+@media screen and (max-width:640px){
 	
 	.harvest_icon{
 		height: 60px;
