@@ -295,6 +295,13 @@ section h3.section-subheading {
 		width: 120px;
 		margin-top: -20px;	
 	}
+	
+	.navbar-shrink .navbar-brand img.harvest_icon{
+		height: 60px;
+		width: 120px;
+		margin-top: -20px;
+		margin-left: 0;
+	}
 
 }
 
